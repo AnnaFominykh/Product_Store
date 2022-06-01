@@ -34,10 +34,6 @@ p.OutCust(null,0);
 p.sell(50,54,"donut");
 p.OutCust(null,0);
 
-
-
-
-
     }
 
 

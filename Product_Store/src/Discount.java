@@ -7,10 +7,6 @@ public class Discount {
         return ProdName;
     }
 
-    public void setProdName(String prodName) {
-        ProdName = prodName;
-    }
-
     public String getProdCategory() {
         return ProdCategory;
     }

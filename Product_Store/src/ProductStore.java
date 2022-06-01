@@ -34,7 +34,6 @@ public class ProductStore {
 
     public void sell(int Price,int balance,String property)
     {int new_balance;
-        int Change;
        new_balance=balance-Price;
        if (balance>=Price){
            for (Customer customer:customers)
